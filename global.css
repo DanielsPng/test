@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+body{
+   background-color: #1E1621;
+    overflow-x: hidden;
+    
+
+}
+
+h1{
+    color: aliceblue;
+    font-size: 200px;
+}
